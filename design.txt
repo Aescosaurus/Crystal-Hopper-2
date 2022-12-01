@@ -1,0 +1,11 @@
+crystal hopper 2 - unity, android/web/windows
+
+secret collectible items - references to other games I've made - gallery to view "treasures"
+implement star system we didn't have in the prev game - x/5 stars per level, y stars required for next planet
+
+new mechanic ideas
+	portals to tp you from 1 pos on the screen to the other
+	super bouncy platforms
+
+re-implement old levels in current game - reuse loading system from old game
+
